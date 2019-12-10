@@ -2,5 +2,5 @@
 The Batman Logo is drawn using OpenGL.
 
 Batman:
-![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Batman.png)
+![alt text](https://github.com/hhshanto/Batman-OpenGL/blob/master/Batman.png)
 
